@@ -1,16 +1,3 @@
-"""
-LaunchHermesAgentWSL.py
-Windows 11 bridge launcher for Hermes Agent (WSL2) with local Ollama backend.
-
-Pre-flight:
-  1. Ensure Ollama is running on Windows
-  2. Verify WSL2 can reach Windows Ollama
-  3. Verify Hermes Agent is installed in WSL2
-  4. Ensure the requested model is available in Ollama
-  5. Configure Hermes to use Ollama as provider
-  6. Launch Hermes Agent interactively
-"""
-
 import json
 import os
 import subprocess
