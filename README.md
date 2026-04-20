@@ -6,7 +6,7 @@ Double-click the `.exe` (or launch it from any directory) and Hermes starts up i
 
 ## Platform
 
-- Windows 11 with WSL2 (Ubuntu distro)
+- Windows with WSL2 (Ubuntu distro)
 - Local Ollama install on Windows
 - Hermes Agent installed inside the WSL2 distro
 
