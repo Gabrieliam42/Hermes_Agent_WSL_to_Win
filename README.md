@@ -2,7 +2,7 @@
 
 Windows-side launcher that bridges [Hermes Agent](https://github.com/NousResearch/hermes-agent) running in WSL2 to a local [Ollama](https://ollama.com) server running on Windows.
 
-Double-click the `.exe` (or launch it from any directory) and Hermes starts up inside WSL2, connected to Windows Ollama, with its working directory set to the folder you launched from.
+Double-click the `.exe` (launch it from any directory) and Hermes starts up inside WSL2, connected to Windows Ollama, with its working directory set to the folder you launched from.
 
 ## Platform
 
